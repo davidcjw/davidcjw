@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🐶 Brother of the most adorable pair of Westies
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love mahjong, durian, am secretly competitive, and a recent BLINK fan.
+- ⚡ Fun fact: I'm a closet BLINK fan.
 
 ### Spotify Playing 🎧
 
