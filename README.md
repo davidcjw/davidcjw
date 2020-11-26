@@ -39,7 +39,7 @@
 <br />
 <br />
 
-# Blog posts
+### Medium Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
