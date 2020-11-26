@@ -50,6 +50,10 @@
 
 <br />
 
+### Github Stats
+
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=davidcjw)](https://github.com/anuraghazra/github-readme-stats)
+
 [website]: https://www.davidcjw.com
 [twitter]: https://twitter.com/davidcjw22
 [instagram]: https://www.instagram.com/dayweeed/
