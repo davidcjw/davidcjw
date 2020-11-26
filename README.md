@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🐶 Brother of the most adorable pair of Westies
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I'm a closet BLINK fan.
+- ⚡ Closet BLINK fan.
 
 ### Spotify Playing 🎧
 
@@ -47,6 +47,8 @@
 - [An Intuitive Explanation of Field Aware Factorization Machines](https://towardsdatascience.com/an-intuitive-explanation-of-field-aware-factorization-machines-a8fee92ce29f?source=rss-f392dd76f846------2)
 - [Deep Dive into Netflix’s Recommender System](https://towardsdatascience.com/deep-dive-into-netflixs-recommender-system-341806ae3b48?source=rss-f392dd76f846------2)
 <!-- BLOG-POST-LIST:END -->
+
+<br />
 
 [website]: https://www.davidcjw.com
 [twitter]: https://twitter.com/davidcjw22
