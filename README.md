@@ -52,7 +52,7 @@
 
 ### Github Stats
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=davidcjw)](https://github.com/anuraghazra/github-readme-stats)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=davidcjw&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://www.davidcjw.com
 [twitter]: https://twitter.com/davidcjw22
