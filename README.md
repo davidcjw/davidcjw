@@ -41,11 +41,11 @@
 
 ### Medium Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Deep Dive into Docker Security](https://towardsdatascience.com/deep-dive-into-docker-security-59b19ac8d0?source=rss-f392dd76f846------2)
 - [A Machine Learning Engineer’s Toolkit](https://towardsdatascience.com/a-machine-learning-engineers-toolkit-23def8d819e2?source=rss-f392dd76f846------2)
 - [How to build and deploy a Machine Learning web application in a day](https://towardsdatascience.com/how-to-build-and-deploy-a-machine-learning-web-application-in-a-day-f194fdbd4a5f?source=rss-f392dd76f846------2)
 - [AI’s coexistence with humans and why we should all be concerned](https://towardsdatascience.com/ais-coexistence-with-humans-and-why-we-should-all-be-concerned-37a8cc444600?source=rss-f392dd76f846------2)
 - [Why We Use Sparse Matrices for Recommender Systems](https://towardsdatascience.com/why-we-use-sparse-matrices-for-recommender-systems-2ccc9ab698a4?source=rss-f392dd76f846------2)
-- [An Intuitive Explanation of Field Aware Factorization Machines](https://towardsdatascience.com/an-intuitive-explanation-of-field-aware-factorization-machines-a8fee92ce29f?source=rss-f392dd76f846------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
