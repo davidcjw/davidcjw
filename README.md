@@ -5,7 +5,7 @@
 - 🔭 On a journey towards Stoicism
 - 🌱 I’m currently learning everything 🤣
 - 🐶 Brother of the most adorable pair of Westies
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute to open source
 - ⚡ Closet BLINK fan.
 
 ### Spotify Playing 🎧
