@@ -41,11 +41,11 @@
 
 ### Medium Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why you shouldn’t join the AI industry in 2021](https://towardsdatascience.com/why-you-shouldnt-join-the-ai-industry-in-2021-61f7c6893ed0?source=rss-f392dd76f846------2)
 - [The Most Common Data Structures Written In Python](https://levelup.gitconnected.com/the-most-common-data-structures-written-in-python-b63f864e71c?source=rss-f392dd76f846------2)
 - [Python: The difference between knowing and understanding it](https://towardsdatascience.com/python-the-difference-between-knowing-and-understanding-it-3b2ebd4e2317?source=rss-f392dd76f846------2)
 - [How to code a Telegram Bot to get stock price updates in pure Python](https://levelup.gitconnected.com/how-to-code-a-telegram-bot-to-get-stock-price-updates-in-pure-python-c35d3c44b04c?source=rss-f392dd76f846------2)
 - [Deep Dive into Docker Security](https://towardsdatascience.com/deep-dive-into-docker-security-59b19ac8d0?source=rss-f392dd76f846------2)
-- [A Machine Learning Engineer’s Toolkit](https://towardsdatascience.com/a-machine-learning-engineers-toolkit-23def8d819e2?source=rss-f392dd76f846------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
