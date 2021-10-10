@@ -41,7 +41,7 @@
 
 ### Medium Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [VSCode Shortcuts and “Hacks” every Programmer should know](https://levelup.gitconnected.com/vscode-shortcuts-and-hacks-every-programmer-should-know-8d544bf6ab85?source=rss-f392dd76f846------2)
+- [VSCode Shortcuts and “Hacks” every Programmer should know](https://towardsdatascience.com/vscode-shortcuts-and-hacks-every-programmer-should-know-8d544bf6ab85?source=rss-f392dd76f846------2)
 - [How To Ace The ML Engineer Take-Home Interview Exercise](https://towardsdatascience.com/how-to-ace-the-ml-engineer-take-home-interview-exercise-daf5ba590de4?source=rss-f392dd76f846------2)
 - [Why you shouldn’t join the AI industry in 2021](https://medium.com/mlearning-ai/why-you-shouldnt-join-the-ai-industry-in-2021-61f7c6893ed0?source=rss-f392dd76f846------2)
 - [Data Structures Written In Python and their respective LeetCode questions](https://levelup.gitconnected.com/the-most-common-data-structures-written-in-python-b63f864e71c?source=rss-f392dd76f846------2)
