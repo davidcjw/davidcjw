@@ -1,11 +1,11 @@
 ### Hi there, I'm David 👋
 
-## I'm an AI Engineer living in Singapore!
+## I'm a ML Engineer living in Singapore!
 
 - 🔭 On a journey towards Stoicism
 - 🌱 I’m currently learning everything 🤣
 - 🐶 Brother of the most adorable pair of Westies
-- 🥅 2021 Goals: Contribute to open source
+- 🥅 2022 Goals: Learn and sharer more about crypto
 - ⚡ Closet BLINK fan.
 
 ### Spotify Playing 🎧
@@ -18,6 +18,7 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][medium]
 
 <br />
 
@@ -58,3 +59,4 @@
 [twitter]: https://twitter.com/davidcjw22
 [instagram]: https://www.instagram.com/dayweeed/
 [linkedin]: https://www.linkedin.com/in/david-chong-83214500/
+[medium]: https://davidcjw.medium.com/
