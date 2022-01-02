@@ -5,7 +5,7 @@
 - 🔭 On a journey towards Stoicism
 - 🌱 I’m currently learning everything 🤣
 - 🐶 Brother of the most adorable pair of Westies
-- 🥅 2022 Goals: Learn and sharer more about crypto
+- 🥅 2022 Goals: Learn and share more about crypto
 - ⚡ Closet BLINK fan.
 
 ### Spotify Playing 🎧
