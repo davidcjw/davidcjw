@@ -42,11 +42,11 @@
 
 ### Medium Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to create a Medium-like personal blog for free in a day](https://levelup.gitconnected.com/how-to-create-a-medium-like-personal-blog-for-free-in-a-day-9c2d878c2430?source=rss-f392dd76f846------2)
 - [It doesn’t pay &lpar;literally&rpar; to write technical pieces](https://medium.com/geekculture/it-doesnt-pay-literally-to-write-technical-pieces-ef189bd2e54e?source=rss-f392dd76f846------2)
 - [Demystifying Python Multiprocessing and Multithreading](https://towardsdatascience.com/demystifying-python-multiprocessing-and-multithreading-9b62f9875a27?source=rss-f392dd76f846------2)
 - [VSCode Shortcuts and “Hacks” every Programmer should know](https://towardsdatascience.com/vscode-shortcuts-and-hacks-every-programmer-should-know-8d544bf6ab85?source=rss-f392dd76f846------2)
 - [How To Ace The ML Engineer Take-Home Interview Exercise](https://towardsdatascience.com/how-to-ace-the-ml-engineer-take-home-interview-exercise-daf5ba590de4?source=rss-f392dd76f846------2)
-- [Why you shouldn’t join the AI industry in 2021](https://medium.com/mlearning-ai/why-you-shouldnt-join-the-ai-industry-in-2021-61f7c6893ed0?source=rss-f392dd76f846------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
