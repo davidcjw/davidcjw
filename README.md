@@ -42,7 +42,7 @@
 
 ### Medium Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to create a Medium-like personal blog for free in a day](https://medium.com/geekculture/how-to-create-a-medium-like-personal-blog-for-free-in-a-day-55ebd9551d9c?source=rss-f392dd76f846------2)
+- [How to create a Medium-like personal blog for free in a day](https://davidcjw.medium.com/how-to-create-a-medium-like-personal-blog-for-free-in-a-day-55ebd9551d9c?source=rss-f392dd76f846------2)
 - [It doesn’t pay &lpar;literally&rpar; to write technical pieces](https://medium.com/geekculture/it-doesnt-pay-literally-to-write-technical-pieces-ef189bd2e54e?source=rss-f392dd76f846------2)
 - [Demystifying Python Multiprocessing and Multithreading](https://towardsdatascience.com/demystifying-python-multiprocessing-and-multithreading-9b62f9875a27?source=rss-f392dd76f846------2)
 - [VSCode Shortcuts and “Hacks” every Programmer should know](https://towardsdatascience.com/vscode-shortcuts-and-hacks-every-programmer-should-know-8d544bf6ab85?source=rss-f392dd76f846------2)
