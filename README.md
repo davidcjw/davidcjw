@@ -2,10 +2,11 @@
 
 ## I'm a ML Engineer living in Singapore!
 
-- 🔭 On a journey towards Stoicism
-- 🌱 I’m currently learning everything 🤣
+- 🔭 On a journey towards living a better life (whatever that means)
+- 🌱 I’m currently (still) learning everything 🤣
 - 🐶 Brother of the most adorable pair of Westies
-- 🥅 2022 Goals: Learn and share more about crypto
+- 👶🏻 Father of one
+- 🥅 2025 Goals: Sleep more
 - ⚡ Closet BLINK fan.
 
 ### Spotify Playing 🎧
