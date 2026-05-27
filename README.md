@@ -51,9 +51,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
 
-### GitHub Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=davidcjw&count_private=true&show_icons=true&include_all_commits=true)
 
 [website]: https://www.davidcjw.com
 [instagram]: https://www.instagram.com/dayweeed/
