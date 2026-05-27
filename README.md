@@ -6,7 +6,7 @@
 - 🌱 Always actively learning
 - 🐶 Brother of the most adorable pair of Westies
 - 👶🏻 Father of two
-- 🥅 2025 Goals: Sleep more
+- 🥅 2026 Goals: Sleep more
 
 ### Connect with me:
 
@@ -19,6 +19,7 @@
 
 ### Technology Stack
 
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-000000?logo=cursor-ai-white)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
@@ -57,4 +58,4 @@
 [website]: https://www.davidcjw.com
 [instagram]: https://www.instagram.com/dayweeed/
 [linkedin]: https://www.linkedin.com/in/davidcjw/
-[medium]: https://davidcjw.medium.com/
+[medium]: https://medium.com/@davidcjw
